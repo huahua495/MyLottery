@@ -88,8 +88,8 @@ public class TestSum_da2 {
             for (Map.Entry<String, Integer> entry : entryList) {
                 int value = entry.getValue();
                 if (value > 2) {
-//                    System.out.print(entry.getKey() + "-" + value + "   ");
-                    System.out.print(entry.getKey());
+                    System.out.print(entry.getKey() + "-" + value + "   ");
+//                    System.out.print(entry.getKey());
                 }
             }
             System.out.println("");

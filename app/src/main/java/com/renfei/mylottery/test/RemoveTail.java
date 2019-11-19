@@ -11,6 +11,8 @@ import java.util.Set;
 public class RemoveTail {
     public static void main(String[] args) {
 
+
+
         /**
          * 所有尾巴
          */
